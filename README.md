@@ -19,7 +19,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=thaismnzs&label=VISITAS&color=00F0FF&style=for-the-badge&labelColor=05070D" alt="Visitas" />
 <img src="https://img.shields.io/github/followers/thaismnzs?label=SEGUIDORES&style=for-the-badge&color=FF2E97&labelColor=05070D&logo=github&logoColor=white" alt="Seguidores" />
 <img src="https://img.shields.io/github/stars/thaismnzs?label=STARS&style=for-the-badge&color=7B61FF&labelColor=05070D&logo=github&logoColor=white" alt="Stars" />
 <img src="https://img.shields.io/badge/STATUS-ONLINE-39FF88?style=for-the-badge&labelColor=05070D" alt="Status online" />
@@ -130,9 +129,9 @@ status:      ● ONLINE
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
-  <img alt="Snake de contribuições" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thaismnzs/thaismnzs/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thaismnzs/thaismnzs/output/github-snake.svg" />
+  <img alt="Snake de contribuições" src="https://raw.githubusercontent.com/thaismnzs/thaismnzs/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
@@ -166,7 +165,7 @@ status:      ● ONLINE
 ```
 
 <img src="https://img.shields.io/badge/Feito_com-%E2%9D%A4%EF%B8%8F_e_muito_caf%C3%A9-05070D?style=flat-square&labelColor=05070D&color=FF2E97" alt="Feito com amor e café" />
-<img src="https://img.shields.io/badge/%C2%A9_2026-SEU_NOME-05070D?style=flat-square&labelColor=05070D&color=00F0FF" alt="Copyright" />
+<img src="https://img.shields.io/badge/%C2%A9_2026-THAIS_MENEZES-05070D?style=flat-square&labelColor=05070D&color=00F0FF" alt="Copyright" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="" />
 
