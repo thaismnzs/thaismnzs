@@ -121,23 +121,6 @@ status:      ● ONLINE
 
 <br/>
 
-
-
-
-## `> contribution_snake.run`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thaismnzs/thaismnzs/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thaismnzs/thaismnzs/output/github-snake.svg" />
-  <img alt="Snake de contribuições" src="https://raw.githubusercontent.com/thaismnzs/thaismnzs/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
-<br/>
-
 ## `> conectar --redes`
 
 <div align="center">
