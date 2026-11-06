@@ -68,13 +68,13 @@
     <!-- Title -->
     <g font-family="'Courier New', Courier, monospace" font-weight="bold" font-size="64" letter-spacing="6" opacity="0">
       <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.29;0.31;0.92;0.97;1" dur="12s" repeatCount="indefinite"/>
-      <text x="40" y="218" fill="#00F0FF" opacity="0.55">SEU NOME
+      <text x="40" y="218" fill="#00F0FF" opacity="0.55">Thais Menezes
         <animate attributeName="x" values="40;40;37;43;40;40" keyTimes="0;0.30;0.31;0.32;0.33;1" dur="12s" repeatCount="indefinite"/></text>
-      <text x="40" y="218" fill="#FF2E97" opacity="0.55">SEU NOME
+      <text x="40" y="218" fill="#FF2E97" opacity="0.55">Thais Menezes
         <animate attributeName="x" values="40;40;43;37;40;40" keyTimes="0;0.30;0.31;0.32;0.33;1" dur="12s" repeatCount="indefinite"/></text>
-      <text x="40" y="218" fill="url(#title)" filter="url(#glow)">SEU NOME</text>
+      <text x="40" y="218" fill="url(#title)" filter="url(#glow)">Thais Menezes</text>
     </g>
-    <text x="42" y="248" font-family="'Courier New', Courier, monospace" font-size="16" fill="#C9D1D9" letter-spacing="2" opacity="0">FULL STACK DEVELOPER  //  AI ENGINEER  //  OPEN SOURCE
+    <text x="42" y="248" font-family="'Courier New', Courier, monospace" font-size="16" fill="#C9D1D9" letter-spacing="2" opacity="0">ESTUDANTE DE ADS
       <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.34;0.37;0.92;0.97;1" dur="12s" repeatCount="indefinite"/></text>
 
     <!-- Progress -->
